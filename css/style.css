@@ -1,0 +1,13 @@
+#header{
+    background-color: seagreen;
+    text-align: center;
+    color: white;
+    
+}
+
+#survey-form{
+    background-color: rgb(14, 78, 131);
+    align-content: center;
+    padding-left: 40%;
+    padding-top: 50px;
+}
